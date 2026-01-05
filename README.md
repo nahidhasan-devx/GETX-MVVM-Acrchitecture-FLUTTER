@@ -148,10 +148,4 @@ To contribute:
 
 This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-Now, just **copy and paste** the entire text above into your `README.md` file in the GitHub repository.
-
-This version should work perfectly when pasted into the GitHub markdown editor, maintaining all of the correct structure, formatting, and code blocks.
-
-Let me know if everything looks good or if you need more adjustments!
