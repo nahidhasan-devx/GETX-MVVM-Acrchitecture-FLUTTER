@@ -49,8 +49,8 @@ To get started with this project, you'll need:
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/flutter-mvvm-getx-template.git
-cd flutter-mvvm-getx-template
+https://github.com/nahidhasan-devx/GETX-MVVM-Acrchitecture-FLUTTER.git
+cd GETX-MVVM-Acrchitecture-FLUTTER
 ```
 
 ### Install Dependencies
@@ -147,5 +147,6 @@ To contribute:
 ## License
 
 This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 
