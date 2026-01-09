@@ -76,7 +76,7 @@ The folder structure of this repository is organized to promote the MVVM archite
 ```
 lib/
 │
-├── core/                    # Core functionalities like constants, helpers, etc.
+├── res/                    # Core functionalities like constants, helpers, etc.
 │   ├── constants.dart       # App-wide constants
 │   ├── utils.dart           # Utility functions
 │
@@ -147,6 +147,7 @@ To contribute:
 ## License
 
 This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 
 
