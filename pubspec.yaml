@@ -39,6 +39,9 @@ dependencies:
   get: ^4.6.6
   shared_preferences: ^2.2.2
   fluttertoast: ^8.2.2
+  logger: ^2.6.2
+  get_storage: ^2.1.1
+  flutter_secure_storage: ^10.0.0
 
 dev_dependencies:
   flutter_test:
