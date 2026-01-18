@@ -2,6 +2,23 @@ Here’s the complete `README.md` content in a way that you can directly copy an
 
 ---
 
+## Description
+Short description of what this project does.
+
+## Installation
+Steps to run the project.
+
+## Contributing
+1. Fork the repository
+2. Create a new branch
+3. Make changes
+4. Submit a pull request
+
+## License
+MIT
+
+---
+
 # Flutter MVVM Architecture Template with GetX
 
 This is a Flutter template project that demonstrates the MVVM (Model-View-ViewModel) architecture pattern using the GetX package for state management and routing. It provides a clean and scalable structure for building Flutter applications while maintaining separation of concerns, which is essential for large-scale applications.
@@ -147,6 +164,7 @@ To contribute:
 ## License
 
 This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 
 
