@@ -1,0 +1,60 @@
+{
+  "dart.lineLength": 100,
+  "editor.rulers": [100],
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit",
+    "source.organizeImports": "explicit"
+  },
+  "[dart]": {
+    "editor.formatOnSave": true,
+    "editor.rulers": [100],
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.suggestSelection": "first",
+    "editor.wordBasedSuggestions": "off",
+    "editor.completeFunctionCalls": true,
+    "editor.defaultFormatter": "Dart-Code.dart-code"
+  },
+  "files.exclude": {
+    "**/.dart_tool": true,
+    "**/.idea": true,
+    "**/.metadata": true,
+    "**/build": true
+  },
+  "search.exclude": {
+    "**/.dart_tool": true,
+    "**/build": true
+  },
+  "files.watcherExclude": {
+    "**/.dart_tool": true,
+    "**/build": true
+  },
+  "files.associations": {
+    "*.dart": "dart"
+  },
+  "dart.debugExternalPackageLibraries": false,
+  "dart.debugSdkLibraries": false,
+  "dart.enableCompletionCommitCharacters": true,
+  "dart.enableSdkFormatter": true,
+  "dart.enableSnippets": true,
+  "dart.evaluateToStringInDebugViews": true,
+  "dart.flutterSdkPath": null,
+  "dart.previewLsp": true,
+  "dart.updateImportsOnRename": true,
+  "dart.warnWhenEditingFilesOutsideWorkspace": true,
+  "dart.analyzeAngularTemplates": true,
+  "dart.completeFunctionCalls": true,
+  "flutter.autoHideScaffoldMessenger": false,
+  "flutter.flutterSdkPath": null,
+  "flutter.hot.reloadOnSave": "always",
+  "flutter.reanalyzeFilesOnSave": "all",
+  "cSpell.words": [
+    "Getx",
+    "MVVM",
+    "pubspec",
+    "SharedPreferences",
+    "GetX"
+  ]
+}

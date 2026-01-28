@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "dart-code.dart-code",
+    "dart-code.flutter",
+    "streetsidesoftware.code-spell-checker",
+    "usernamehw.errorlens",
+    "alexcvzz.vscode-lombok",
+    "eamodio.gitlens",
+    "oderwat.indent-rainbow",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint"
+  ]
+}
